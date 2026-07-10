@@ -12,7 +12,15 @@ header {
   color: black;
   text-align: center;
   padding: 20px;
-
+.race-dropdown {
+  font-size: 1rem;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid gray;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+  
 } 
 .hover-box {
   width: 10vw;
