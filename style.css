@@ -15,8 +15,8 @@ header {
 
 } 
 .hover-box {
-  width: 100px;
-  margin: 10px auto;
+  width: 200px;
+  margin: 15px auto;
   padding: 10px;
   background-color: white;
   border: 2px solid cornflowerblue;
@@ -41,7 +41,7 @@ nav {
   background-color: cornflowerblue;
   padding: 15px;
   text-align: left;
-  font-size: 16px;
+  font-size: 12px;
   
   display: flex;
   justify-content: flex-start;
