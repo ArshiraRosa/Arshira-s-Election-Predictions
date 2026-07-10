@@ -13,6 +13,28 @@ header {
   text-align: center;
   padding: 40px;
 } 
+.hover-box {
+  width: 100px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: white;
+  border: 2px solid cornflowerblue;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.hover-box h3 {
+  margin: 0;
+}
+.hover-content {
+  display: none;
+  margin-top: 15px;
+}
+
+.hover-box:hover .hover-content {
+  display: block;
+}
 nav { 
   background-color: cornflowerblue;
   padding: 15px;
