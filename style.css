@@ -12,6 +12,7 @@ header {
   color: black;
   text-align: center;
   padding: 20px;
+}
   
 .race-dropdown {
   font-size: 1rem;
@@ -20,7 +21,6 @@ header {
   background-color: white;
   color: black;
   cursor: pointer;
-}
   
 } 
 .hover-box {
