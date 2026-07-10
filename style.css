@@ -12,6 +12,7 @@ header {
   color: black;
   text-align: center;
   padding: 20px;
+  
 .race-dropdown {
   font-size: 1rem;
   padding: 0.4rem 0.75rem;
@@ -62,4 +63,11 @@ nav a {
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
+}
+.poll-image {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
 }
